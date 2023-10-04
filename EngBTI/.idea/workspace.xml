@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39d694b6-9f9d-4d7f-8b35-6978da8f1800" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/Documents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2205/java/brothers/book/8/8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../230504_csv_txt/.idea/230504_csv_txt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cam/app/src/main/java/com/example/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cam/app/src/main/java/com/example/myapplication/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cam/app/src/main/java/com/example/myapplication/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cam/app/src/main/java/com/example/myapplication/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodingTestJava/CodingTestJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EFFECTIVE_PYTHON/.idea/EFFECTIVE_PYTHON.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/.idea/UPVOTE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/0923_0927/.idea/0923.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/1202_get_gangbin_code/.idea/1202_get_gangbin_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/dsProject/.idea/dsProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/gup_1130/.idea/gup_1130.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/realwork_derivation 복사본/.idea/realwork_derivation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/realwork_derivation/.idea/realwork_derivation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/realwork_derivation_1121mon9/.idea/realwork_derivation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UPVOTE/ssibal/.idea/realwork_derivation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../clionprojects/nado/.idea/nado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dataspell/dsProject/.idea/dsProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fastios/fsfsfds/.idea/fsfsfds.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-camp/flutter_class/assign8/lib/widget/animals.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-camp/flutter_class/assign8/lib/widget/grid.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-camp/prac/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-camp/prac/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-camp/prac/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-camp/prac/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-camp/prac/.idea/prac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter-camp/prac/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../honglab_python/.idea/honglab_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../honglab_python/venv/.idea/venv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../inflearn/.idea/inflearn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_2023/0520/practice/out/production/practice/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_2023/0520/practice/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_dog/my_java/my_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javajungsuk3-master/.idea/javajungsuk3-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/dashboard/.idea/dashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/django_academy_0511/.idea/django_academy_0511.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/.idea/flaskProject_fandom_mall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/templates/board.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/templates/board_write.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/flaskProject_fandom_mall/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/selenium_gov/.idea/selenium_gov.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/watermark_ruby/.idea/watermark_ruby.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong/wave_to_img/.idea/wave_to_img.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong_excel_mecro_0422/.idea/kmong_excel_mecro_0422.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../kmong_youtube_api_1/.idea/kmong_youtube_api_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../midi/.idea/midi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pbrunner/2023.03.15/.idea/2023.03.15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pbrunner/java_gg/java_gg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pbrunner/java_pbung_array/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pbrunner/java_sum/java_sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pbrunner/pb_blog/.idea/pb_blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pbrunner/pythonDocs/.idea/pythonDocs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pgg/chk_resolution/.idea/chk_resolution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../php/20220601/php/.idea/php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../phpStorm/brain/.idea/brain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pocu/12/12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/django_1/.idea/django_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/pyqt6_prac/.idea/pyqt6_prac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pure_python/.idea/pure_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/a1_url_django_fastcampus/.idea/a1_url_django_fastcampus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/.idea/beeware_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/src/h2elloworld/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/src/h2elloworld/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/src/h2elloworld/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/src/h2elloworld/resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/src/h2elloworld/resources/h2elloworld.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/src/h2elloworld/resources/h2elloworld.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/src/h2elloworld/resources/h2elloworld.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/tests/h2elloworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/h2elloworld/tests/test_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/beeware_test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/func_and_test/.idea/func_and_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/google_bootcamp_test/.idea/google_bootcamp_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/google_bootcamp_test/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/java_gg/.idea/java_gg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/new_python/.idea/new_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/notebook_prac/.idea/notebook_prac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/rasa/.idea/rasa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/test_prac/.idea/test_prac.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/test_prac/checkout/.idea/checkout.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/turtle_pg/.idea/turtle_pg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/type_python/.idea/type_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/upvote_fire/.idea/upvote_fire.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/witchform_1/.idea/witchform_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/.idea/sumgo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/0605_sound/.idea/0605_sound.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin/.idea/academy_admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin/mainapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin/templates/student_schedule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin/templates/time_table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/.idea/academy_admin_v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/academy_admin_v2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/academy_admin_v2/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/academy_admin_v2/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/academy_admin_v2/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/academy_admin_v2/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/attendance/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/classes/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/course/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/mainpage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/mainpage/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/mainpage/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/mainpage/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/mainpage/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/mainpage/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/mainpage/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/mainpage/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/payments/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/student/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/teacher/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/templates/mainpage/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/templates/mainpage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/templates/mainpage/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/templates/mainpage/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/academy_admin_v2/waitinglist/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/checklist/.idea/checklist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/discord_ridibot/.idea/discord_ridibot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/gonsi_api/.idea/gonsi_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/kimwujin_html_css/.idea/kimwujin_html_css.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/mp3_play_site/.idea/mp3_play_site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/selenium_practice/.idea/selenium_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/static/assets/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/sumgo_csv/.idea/sumgo_csv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/sumgo_csv_web/.idea/sumgo_csv_web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/sumgo_csv_web/files/banana.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/sumgo_csv_web/files/power.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/sumgo_csv_web/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/sumgo_csv_web/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/sumgo_csv_web/test_main.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/sumgo_csv_web/우선순위.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/templates/projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/templates/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sumgo/yes24/.idea/yes24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/java_for_beginner/java_for_beginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/javascript_master_guide/.idea/javascript_master_guide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/python100/.idea/python100.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/test_with_python/.idea/test_with_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/unittest_and_tdd/.idea/unittest_and_tdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 기초강의/.idea/파이썬 기초강의.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python/flask_app/templates/.idea/templates.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/static/css/base2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/static/css/base2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/templates/base2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/templates/base2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/user/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/witchform_2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/witchform_2/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/witchform_2/witchform_2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/witchform_2/witchform_2/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2WHKF8U7RscU7k8HhK2or5Tb1xE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d694b6-9f9d-4d7f-8b35-6978da8f1800" name="Changes" comment="" />
+      <created>1696383960711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696383960711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
